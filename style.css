@@ -12,8 +12,8 @@
   /* Colors */
   --white-color: #fff;
   --dark-color: #252525;
-  --primary-color: #3b141c;
-  --secondary-color: #f3961c;
+  --primary-color: #1E293B;
+  --secondary-color: #10B981;
   --light-pink-color: #faf4f5;
   --medium-gray-color: #ccc;
 
@@ -257,7 +257,7 @@ header .navbar {
 /* Menu section styling */
 .menu-section {
   color: var(--white-color);
-  background: var(--dark-color);
+  background: var(--primary-color);
   padding: 50px 0 100px;
 }
 

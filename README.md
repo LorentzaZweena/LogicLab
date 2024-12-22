@@ -1,7 +1,7 @@
 ```markdown
 # LogicLab
 
-**LogicLab** is an interactive website designed to help individuals learn coding in a fun and engaging way.
+LogicLab is an interactive website designed to help individuals learn coding in a fun and engaging way.
 It offers various coding challenges, tutorials, and resources to help beginners and intermediate
 learners improve their programming skills.
 
@@ -9,16 +9,16 @@ This project is built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- **Interactive Coding Challenges**: Learn coding concepts through real-world challenges.
-- **Code Editor**: Write and test your code directly on the website.
-- **Responsive Design**: Fully responsive interface for optimal performance across all devices.
-- **Beginner-Friendly**: Suitable for beginners who want to start learning programming.
+- Interactive Coding Challenges: Learn coding concepts through real-world challenges.
+- Code Editor: Write and test your code directly on the website.
+- Responsive Design: Fully responsive interface for optimal performance across all devices.
+- Beginner-Friendly: Suitable for beginners who want to start learning programming.
 
 ## Technologies Used
 
-- **HTML**: Used for the structure and content of the website.
-- **CSS**: Styled the website to make it visually appealing.
-- **JavaScript**: Implemented interactivity and coding challenges functionality.
+- HTML: Used for the structure and content of the website.
+- CSS: Styled the website to make it visually appealing.
+- JavaScript: Implemented interactivity and coding challenges functionality.
 
 ## Installation
 
@@ -43,10 +43,3 @@ If you'd like to contribute to **LogicLab**, feel free to fork the repository an
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Enjoy learning coding with **LogicLab**!
-```
-
-[Tee-hee!](https://github.com/LorentzaZweena/LogicLab)

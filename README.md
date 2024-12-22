@@ -23,7 +23,7 @@ This project is built using **HTML**, **CSS**, and **JavaScript**.
 1. Clone this repository to your local machine using the command:
 
    ```bash
-   git clone https://github.com/yourusername/logiclab.git
+   git clone https://github.com/LorentzaZweena/logiclab.git
    ```
 
 2. Open the `index.html` file in your browser to start using the website.
@@ -46,5 +46,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Enjoy learning coding with **LogicLab**!
 ```
-
-You can replace the `https://github.com/yourusername/logiclab.git` link with the actual link to your repository if applicable.
